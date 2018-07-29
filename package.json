@@ -1,0 +1,16 @@
+{
+  "name": "uku-connect-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paarlproton/uku-connect-css.git"
+  },
+  "author": "Les Ansley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paarlproton/uku-connect-css/issues"
+  },
+  "homepage": "https://github.com/paarlproton/uku-connect-css#readme"
+}
